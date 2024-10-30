@@ -31,11 +31,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Renato">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=61sgp9f03235u6itg0otccx2p" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
