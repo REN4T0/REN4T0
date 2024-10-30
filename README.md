@@ -1,3 +1,8 @@
+<h1 align="left">Bem vindo!</h1>
+
+###
+
+> Meu nome é Renato, e estou sempre buscando inovar e aprender cada vez mais sobre programação, para alavancar a minha carreira!
 <h1 align="left">Estatísticas</h1>
 
 ###
