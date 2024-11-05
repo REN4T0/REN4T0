@@ -1,6 +1,4 @@
-<h1 align="left">Bem vindo!</h1>
-
-###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&width=435&lines=Bem+vindo!;Welcome!;%C2%A1Bienvenido!;%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81;Bienvenue!;Willkommen!;Benvenuto!)](https://git.io/typing-svg)
 
 > Meu nome é Renato, e estou sempre buscando inovar e aprender cada vez mais sobre programação, para alavancar a minha carreira!
 <h1 align="left">Estatísticas</h1>
